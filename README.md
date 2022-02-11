@@ -1,0 +1,1 @@
+# 这是用于加载插件的app,被加载的插件项目名是PluginProject
